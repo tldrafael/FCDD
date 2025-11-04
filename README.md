@@ -8,3 +8,18 @@ Paper to be published at IEEE Access soon.
 
 
 Data will be available in Mendeley soon.
+
+
+
+## How resolution affects performance across different models?
+
+![](outs/fig_resolution_vs_miou.jpg)
+
+## How resolution affects performance across signs, distress and things classes?
+
+![](outs/fig_resolution_vs_miou_byclass_minors.jpg)
+
+## How resolution affects performance across road surfaces?
+
+![](outs/fig_resolution_vs_miou_byclass_surfaces.jpg)
+
